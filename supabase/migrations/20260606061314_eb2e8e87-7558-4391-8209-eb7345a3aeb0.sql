@@ -1,0 +1,2 @@
+REVOKE SELECT ON public.hotels FROM anon;
+GRANT SELECT (id, owner_id, name, slug, description, location, price_per_night, rating, amenities, cover_image, published, created_at, updated_at, lat, lng, deposit_percent) ON public.hotels TO anon;

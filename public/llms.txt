@@ -1,0 +1,16 @@
+# Shohimardon Dachalari
+
+> Shohimardon vodiysida dacha va mehmonxona ijarasi. Tog' havosi, toza tabiat, oilaviy dam olish uchun qulay narxlarda dachalar.
+
+Shohimardon Dachalari — O'zbekistonning Farg'ona vodiysidagi Shohimardon qishlog'ida joylashgan dachalarni onlayn ko'rish, taqqoslash va bron qilish platformasi. Foydalanuvchilar mehmonxonalar galereyasi, xona narxlari, qulayliklar ro'yxati va egalari bilan bog'lanish imkoniyatini oladi.
+
+## Pages
+
+- [Bosh sahifa](/): Loyihaning kirish sahifasi — asosiy taklif, xizmatlar va mashhur dachalar.
+- [Barcha dachalar](/hotels): Shohimardondagi barcha e'lon qilingan dachalar ro'yxati filtrlar bilan.
+- [Dachalar galereyasi](/dachas): Dachalar suratlari va qisqacha ma'lumotlar.
+
+## Optional
+
+- [Kirish](/login): Mavjud foydalanuvchilar uchun tizimga kirish sahifasi.
+- [Ro'yxatdan o'tish](/register): Yangi foydalanuvchilar uchun ro'yxatdan o'tish sahifasi.

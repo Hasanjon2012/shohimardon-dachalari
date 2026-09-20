@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /admin
+Disallow: /owner
+Disallow: /profile
+Disallow: /booking
+Disallow: /api
+
+Sitemap: https://shohimardon.site/sitemap.xml

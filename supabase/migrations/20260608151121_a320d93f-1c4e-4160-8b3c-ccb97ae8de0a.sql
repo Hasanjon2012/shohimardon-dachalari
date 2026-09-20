@@ -1,0 +1,1 @@
+GRANT SELECT (contact_clicks, manual_order) ON public.hotels TO anon, authenticated;

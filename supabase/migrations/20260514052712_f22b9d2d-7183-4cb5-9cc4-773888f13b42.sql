@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.bookings_prevent_overlap() FROM PUBLIC, anon, authenticated;

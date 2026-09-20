@@ -1,0 +1,1 @@
+GRANT SELECT (view_count, phone_clicks, featured) ON public.hotels TO anon, authenticated;

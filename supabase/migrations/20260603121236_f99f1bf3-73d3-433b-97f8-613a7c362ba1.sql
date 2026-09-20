@@ -1,0 +1,1 @@
+REVOKE SELECT (phone) ON public.hotels FROM anon;

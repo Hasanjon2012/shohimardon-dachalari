@@ -1,0 +1,2 @@
+DROP POLICY IF EXISTS "Bookings: owner+user delete" ON public.bookings;
+CREATE POLICY "Bookings: owner+user delete" ON public.bookings FOR DELETE USING (is_hotel_owner(auth.uid(), hotel_id) OR has_role(auth.uid(), 'super_owner'::app_role));
